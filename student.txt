@@ -1,0 +1,7 @@
+Student ID: 101
+Name: Rahul
+Course: AIDS
+
+Student ID: 102
+Name: Priya
+Course: Computer Engineering
