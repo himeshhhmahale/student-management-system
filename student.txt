@@ -5,3 +5,7 @@ Course: AIDS
 Student ID: 102
 Name: Priya
 Course: Computer Engineering
+
+Student ID: 103
+Name: Amit
+Course: Information Technology
